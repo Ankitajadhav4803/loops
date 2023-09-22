@@ -15,7 +15,7 @@ void  main()
 		i++;
 	}
 	if(f==0)
-	printf("given integer is prime.");
+	printf("given number is prime.");
 	else
-	printf("given integer is not prime.");
+	printf("given number is not prime.");
 }
